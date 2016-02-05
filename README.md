@@ -1,6 +1,7 @@
 # lecture-demos
 
 Lecture demos for [CS 2043][cs2043].
+Brian's Fork
 
 You are in no way expected to complete all of these exercises, they are here for you to experiment if you want
 to.  We will begin the exercise at the end of class, and I will release *a* solution (not *the only* solution)
